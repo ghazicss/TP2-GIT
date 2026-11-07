@@ -1,1 +1,2 @@
-Prix du produit = 100 DT
+Prix du produit = 190 DT
+
