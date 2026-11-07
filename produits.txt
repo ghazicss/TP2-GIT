@@ -1,1 +1,8 @@
 Liste des produits
+Produit 1 : Ordinateur
+Prix : 2500 DT
+Produit 2 : Imprimante
+Prix : 450 DT
+Produit 3 : Clavier
+Prix : 80 DT
+
