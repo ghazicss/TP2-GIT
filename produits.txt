@@ -6,3 +6,5 @@ Prix : 450 DT
 Produit 3 : Clavier
 Prix : 80 DT
 
+Produit : Telephone
+Prix : 1200 DT
